@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start:dev": "nodemon routes/api/index.router.js",
+    "dev": "nodemon routes/api/index.router.js",
     "start": "node routes/api/index.router.js"
   },
   "dependencies": {
